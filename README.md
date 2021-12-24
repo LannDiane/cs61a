@@ -1,2 +1,2 @@
 # cs61a
-Here is my codes and notes about cs61a. Hope u enjoy it :)
+Here are my codes and notes about cs61a. Hope u enjoy it :)
